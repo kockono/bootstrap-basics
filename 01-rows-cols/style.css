@@ -1,0 +1,19 @@
+.row-1 {
+    border: 2px solid blue;
+}
+
+.row-2 {
+    border: 2px solid red;
+    background-color: bisque;
+}
+
+.columna-1 {
+    background-color: aquamarine;
+}
+
+.columna-2 {
+    background-color: blue;
+}
+.columna-3 {
+    background-color: rebeccapurple;
+}
